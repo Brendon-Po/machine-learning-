@@ -27,8 +27,10 @@
         },
         {
             "name": "cuda",
-            "depth": 3,
+            "depth": 3, 
             "includeAllSymbols": true
         }
-    ]
+    ],  
+    "jupyter.matplotlibBackend": "inline"
+    
 }
